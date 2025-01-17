@@ -1,6 +1,6 @@
 # Chat App Setup Instructions
 
-_ Prerequisites
+- Prerequisites
 > Ensure you have the following installed:
 > Python 3.9 or later
 > Redis server
@@ -8,12 +8,12 @@ _ Prerequisites
 
 - Git Installation
 Clone the Repository
-> git clone https://github.com/YogeshBasavaraju97/chatApp.git
-> cd your-repo-name
-> Create and Activate a Virtual Environment
-> python -m venv venv
-> source venv/bin/activate  # For macOS/Linux
-> venv\Scripts\activate     # For Windows
+>  git clone https://github.com/YogeshBasavaraju97/chatApp.git
+>  cd your-repo-name
+>  Create and Activate a Virtual Environment
+>  python -m venv venv
+>  source venv/bin/activate  # For macOS/Linux
+>  venv\Scripts\activate     # For Windows
 
 - Install Dependencies
 > pip install -r requirements.txt
