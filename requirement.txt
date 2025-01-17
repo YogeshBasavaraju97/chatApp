@@ -1,0 +1,10 @@
+channels==4.2.0
+channels-redis==4.2.0
+daphne==4.1.2
+Django==4.2.18
+redis==5.2.1
+python-decouple==3.8
+
+
+
+
